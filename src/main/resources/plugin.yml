@@ -1,0 +1,6 @@
+name: KeyBackpacks
+version: '${project.version}'
+main: com.ilucah.keybackpacks.KeyBackpacks
+api-version: 1.18
+authors: [ iLucaH ]
+description: KeyBackpacks API
