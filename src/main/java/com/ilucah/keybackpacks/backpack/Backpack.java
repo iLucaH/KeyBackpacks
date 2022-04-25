@@ -225,4 +225,25 @@ public class Backpack {
 
     public void setDepositSound(Sound depositSound) {
     }
+
+    public boolean isOpenable() {
+        return false;
+    }
+
+    public void setOpenable(boolean openable) {
+    }
+
+    public boolean isWithdrawable() {
+        return false;
+    }
+
+    public void setWithdrawable(boolean withdrawable) {
+    }
+
+    public boolean isDepositable() {
+        return false;
+    }
+
+    public void setDepositable(boolean depositable) {
+    }
 }
